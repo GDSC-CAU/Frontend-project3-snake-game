@@ -1,0 +1,3 @@
+[submodule "준성"]
+	path = 준성
+	url = https://github.com/danpacho/gdsc-project3-snake-game.git
