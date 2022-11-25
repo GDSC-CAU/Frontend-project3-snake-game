@@ -1,3 +1,6 @@
 [submodule "준성"]
 	path = 준성
 	url = https://github.com/danpacho/gdsc-project3-snake-game.git
+[submodule "하연"]
+	path = 하연
+	url = https://github.com/likeyeon/GDSC-Project3-snake-game.git
